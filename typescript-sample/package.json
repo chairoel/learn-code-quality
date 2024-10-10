@@ -1,0 +1,14 @@
+{
+  "name": "typescript-sample",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "Nur Rizki Adi Prasetyo <nrizki@dicoding.com>",
+  "license": "ISC",
+  "description": "TypeScript demo",
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  }
+}
